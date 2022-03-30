@@ -1,5 +1,5 @@
 
-** Please note tis repo only contains the smart contracts for crypto bunnys, if you would like the frontend files to build the dapp locally please contact @Larakitty#8838 on discord. 
+** Please note this repo only contains the smart contracts for crypto bunnys, if you would like the frontend files to build the dapp locally please contact @Larakitty#8838 on discord. 
 
 ## Crypto Bunnys
 
