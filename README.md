@@ -1,7 +1,9 @@
 
-# Please note tis repo only contains the smart contracts for crypto bunnys, if you would like the frontend files to build the dapp locally please contact @Larakitty#8838 on discord. 
+** Please note tis repo only contains the smart contracts for crypto bunnys, if you would like the frontend files to build the dapp locally please contact @Larakitty#8838 on discord. 
 
-Crypto Bunnys - 3,333 Bunny avatars with its own built in marketplace on Godwoken L2 Testnet. 
+## Crypto Bunnys
+
+3,333 Bunny avatars with its own built in marketplace deployed on Nervos L2 Godwoken Testnet. 
 
 Frontend - https://cryptobunnys.vercel.app/
 
