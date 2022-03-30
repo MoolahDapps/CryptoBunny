@@ -11,6 +11,7 @@ Smart contract - https://v1.aggron.gwscan.com/account/0x291c4c44b9bc422628f58b3c
 
 IPFS - https://477nft.com/ipfs/QmcqiQ4ttTkfLFUNbt39ov874S2JyP7LmyqborxnrM6HQp/1.png
 
+Showcase -
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jiQ_U3lXndc/0.jpg)](https://www.youtube.com/watch?v=jiQ_U3lXndc)
 
